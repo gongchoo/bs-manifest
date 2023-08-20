@@ -1,0 +1,21 @@
+{
+    "name": "bs-theme",
+    "short_name": "bs-theme",
+    "start_url": "https://bs-theme-test.blogspot.com",
+    "display": "fullscreen",
+    "theme_color": "#7f7f7f",
+    "background_color": "#7f7f7f",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FhpOny8-l-y-LY1_rkB3RoyRxwd5vDnioOyV4ADFx6hJeiph-HWAuOmgYzp0vaq-AJUlvTzsdcaIVkbJBzrPrp6ItoF0Du6boTVIE7LKGPlJiEbXSrHmvApo8HNkp7fazvsqbSSfQsIKNnSzKPzMa5GwLmS5HJLhQOU7p_Q_SQ3vj_bbnevI1vKn8L8/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG4WOT-1lWvYCKPaVsUfai0S097h1ZD8hSLjX0Ij5b7aSqaKAzyeBDNrUX_FNvPNFSCxR6t7wt4m1otSmwVJE1ALX4UOo8pXkaoE82W4yF9aR1MvjUtjYMLH5q1QyifKs9wdjZsUUujh4qq_Cdy3bPuAoUzeIrU9bqtRUC-mekPYyJiRujDwrtaCkAILE/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "prefer_related_applications": false
+}
